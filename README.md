@@ -1,1 +1,1 @@
-# HTML project on some sample content creation
+# Create a Recipe Website : Odin Recipes
